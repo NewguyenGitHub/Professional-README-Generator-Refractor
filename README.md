@@ -40,6 +40,7 @@ This is a node.js file that creates a README file for the user based on the user
 ![Professional-README-Generator-Terminal](assets/demo/Professional-README-Generator-Terminal.JPG)
 ![Professional-README-Generator-README-file](assets/demo/Professional-README-Generator-README-file.JPG)
 ![Professional-README-Generator-README-file-preview](assets/demo/Professional-README-Generator-README-file-preview.JPG)
+![Professional-README-Generator-Walk-Through](assets/demo/Professional-README-Generator-Walk-Through.mp4)
 
 ## Credits
 
