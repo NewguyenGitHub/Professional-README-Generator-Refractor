@@ -46,7 +46,6 @@ This is a node.js file that creates a README file for the user based on the user
 
 ![Professional-README-Generator-README-file-preview](assets/demo/Professional-README-Generator-README-file-preview.JPG)
 
-
 ## Credits
 
 N/A
