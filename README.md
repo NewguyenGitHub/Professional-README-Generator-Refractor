@@ -37,10 +37,14 @@ node index.js
 ## Usage
 
 This is a node.js file that creates a README file for the user based on the user input.
+
+[Professional-README-Generator-Walk-Through](https://user-images.githubusercontent.com/118239578/219817208-510538be-c49a-4dcb-a258-56d43c496d06.mp4)
+
 ![Professional-README-Generator-Terminal](assets/demo/Professional-README-Generator-Terminal.JPG)
+
 ![Professional-README-Generator-README-file](assets/demo/Professional-README-Generator-README-file.JPG)
+
 ![Professional-README-Generator-README-file-preview](assets/demo/Professional-README-Generator-README-file-preview.JPG)
-![Professional-README-Generator-Walk-Through](https://user-images.githubusercontent.com/118239578/219817208-510538be-c49a-4dcb-a258-56d43c496d06.mp4)
 
 
 ## Credits
